@@ -1,0 +1,9 @@
+{
+  "Location": {},
+  "GuardedArea": {
+    "center": [1,0,4],
+    "radius": 5,
+    "guardTypeList": ["Guards:skeleton", "Guards:deer"],
+    "guardMultiplicities": [1,1]
+  }
+}
